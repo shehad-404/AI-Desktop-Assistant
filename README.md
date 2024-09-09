@@ -1,7 +1,5 @@
 # AI-Desktop-Assistant
 ## Introduction
-# AI Desktop Assistant
-
 Our project aims to create an **AI Desktop Assistant** that enhances user productivity by performing a wide range of tasks using simple voice commands. The assistant can:
 
 - Send emails
