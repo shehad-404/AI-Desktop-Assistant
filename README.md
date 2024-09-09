@@ -13,3 +13,11 @@ Our project aims to create an **AI Desktop Assistant** that enhances user produc
 - Tell jokes for entertainment
 
 This assistant is designed to make computer interactions smoother, faster, and more enjoyable. Whether it's completing work tasks or lightening the mood with a joke, the AI Desktop Assistant is here to help.
+
+# Used Tools
+## Language 
+-Python
+
+## tools
+- Spyder
+- VS Code
