@@ -1,6 +1,6 @@
 # AI-Desktop-Assistant
 ## Introduction
-Our project aims to create an **AI Desktop Assistant** that enhances user productivity by performing a wide range of tasks using simple voice commands. The assistant can:
+Our project aims to create an **[AI Desktop Assistant](https://github.com/shehad-404/AI-Desktop-Assistant/tree/main)** that enhances user productivity by performing a wide range of tasks using simple voice commands. The assistant can:
 
 - Send emails
 - Play music
