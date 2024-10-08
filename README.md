@@ -19,3 +19,7 @@ This assistant is designed to make computer interactions smoother, faster, and m
 ## tools
 - Spyder
 - VS Code
+
+# Videos 
+https://github.com/user-attachments/assets/2d7e6808-9e6b-4831-9da8-50df76c7124a
+
